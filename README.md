@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PalashDevOps](https://github.com/PalashDevOps)  
 - 💬 Ask me about **DevOps, Cloud, Automation, and Infrastructure**  
-- 📫 How to reach me **palash.chimurkar@gmail.com**
+- 📫 How to reach me **palashchimurkar75@gmail.com**
 
 ---
 
