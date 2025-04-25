@@ -4,14 +4,11 @@
   <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/TWgmALAOwFuDdDg/banner.jpg" alt="Palash Chimurkar Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
 
 <p align="center">
   <a href="https://github.com/PalashDevOps">
     <img src="https://img.shields.io/github/followers/PalashDevOps?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://linkedin.com/in/palash-chimurkar/">
     <img src="https://img.shields.io/badge/LinkedIn-Palash%20Chimurkar-blue?logo=linkedin&style=flat-square" />
